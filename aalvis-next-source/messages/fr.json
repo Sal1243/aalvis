@@ -1,0 +1,329 @@
+{
+ "_meta": {
+  "brand": "AALVIS",
+  "locale": "fr",
+  "role": "French translation of en.json — native luxury brand voice."
+ },
+ "meta": {
+  "home": {
+   "title": "AALVIS — Joaillerie de luxe en or et diamants",
+   "description": "AALVIS est une maison internationale de joaillerie de luxe. Découvrez des créations en or et diamants conçues pour célébrer les moments les plus précieux de la vie."
+  },
+  "privacy": {
+   "title": "Politique de confidentialité — AALVIS",
+   "description": "Comment AALVIS collecte, utilise et protège vos données personnelles."
+  },
+  "cookies": {
+   "title": "Politique relative aux cookies — AALVIS",
+   "description": "Comment et pourquoi AALVIS utilise des cookies sur son site web."
+  },
+  "terms": {
+   "title": "Conditions générales — AALVIS",
+   "description": "Les conditions régissant l'utilisation du site web AALVIS."
+  }
+ },
+ "nav": {
+  "home": "Accueil",
+  "collections": "Collections",
+  "story": "Notre Histoire",
+  "craftsmanship": "Savoir-Faire",
+  "gallery": "Galerie",
+  "contact": "Contact",
+  "menu": "Menu",
+  "openMenu": "Ouvrir le menu",
+  "closeMenu": "Fermer le menu",
+  "logoAlt": "AALVIS — joaillerie de luxe en or et diamants"
+ },
+ "announcement": {
+  "text": "Consultations privées sur rendez-vous — contactez notre service clientèle",
+  "cta": "Nous contacter",
+  "close": "Fermer l'annonce"
+ },
+ "language": {
+  "label": "Langue",
+  "open": "Choisir la langue",
+  "close": "Fermer le menu des langues",
+  "current": "Langue actuelle",
+  "suggestion": "Lire AALVIS en",
+  "dismissSuggestion": "Garder la langue actuelle"
+ },
+ "hero": {
+  "eyebrow": "Maison internationale de haute joaillerie",
+  "title": "La beauté au-delà du temps.",
+  "subtitle": "Une expression d'élégance, d'art et d'un éclat intemporel.",
+  "ctaPrimary": "Découvrir AALVIS",
+  "ctaSecondary": "Explorer les collections",
+  "scroll": "Faites défiler",
+  "imageAlt": "Gros plan cinématographique d'un collier en or et diamants sous une lumière dramatique"
+ },
+ "collections": {
+  "eyebrow": "Collections Signature",
+  "title": "Six univers de lumière",
+  "subtitle": "Chaque collection est un chapitre de l'histoire AALVIS — composée en or, illuminée de diamants, achevée à la main.",
+  "cta": "Explorer",
+  "enquireCta": "Se renseigner sur cette collection",
+  "items": {
+   "gold": {
+    "name": "Joaillerie en Or",
+    "description": "Des formes sculpturales en or chaud et lumineux — des colliers signature aux trésors du quotidien."
+   },
+   "diamond": {
+    "name": "Joaillerie en Diamants",
+    "description": "Éclatants, impeccables et éternels. Des diamants choisis pour leur feu, leur pureté et leur caractère."
+   },
+   "rings": {
+    "name": "Bagues",
+    "description": "Des promesses précieuses — solitaires, bagues cocktail et alliances d'une distinction discrète."
+   },
+   "necklaces": {
+    "name": "Colliers",
+    "description": "Des lignes de lumière qui épousent le cou — pendentifs, colliers et rivières de diamants."
+   },
+   "earrings": {
+    "name": "Boucles d'oreilles",
+    "description": "Mouvement et éclat en parfait équilibre — puces, pendantes et créations lustres."
+   },
+   "bracelets": {
+    "name": "Bracelets",
+    "description": "Le geste final — bracelets tennis, joncs et manchettes d'une élégance durable."
+   }
+  }
+ },
+ "featured": {
+  "eyebrow": "Créations en vedette",
+  "title": "Chefs-d'œuvre, de près",
+  "subtitle": "Une sélection éditoriale des créations AALVIS — une galerie visuelle, présentée pour l'admiration et la demande d'informations.",
+  "cta": "En savoir plus",
+  "items": {
+   "aurelia": {
+    "name": "Aurélia",
+    "category": "Joaillerie en Or",
+    "description": "Un col sculptural en or poli à la main, inspiré des premières lueurs de l'aube."
+   },
+   "eclat": {
+    "name": "Éclat Noir",
+    "category": "Joaillerie en Diamants",
+    "description": "Une bague cocktail audacieuse centrée sur un diamant taille brillant, sertie d'or noirci."
+   },
+   "lumiere": {
+    "name": "Lumière",
+    "category": "Boucles d'oreilles",
+    "description": "Des boucles d'oreilles en diamants en cascade qui bougent comme la lumière sur l'eau."
+   }
+  }
+ },
+ "story": {
+  "eyebrow": "Notre Histoire",
+  "title": "Une expression d'art. Une célébration de l'élégance.",
+  "p1": "AALVIS est née d'une conviction unique : le bijou est une mémoire rendue éternelle. Chaque création commence comme une histoire — une étape, un vœu, une célébration — et devient un héritage qui la porte plus loin.",
+  "p2": "Notre langage de design puise dans la grandeur silencieuse de minuit et la chaleur de la bougie : des noirs profonds et lumineux qui offrent à l'or sa scène, et des diamants qui retiennent la lumière comme des promesses tenues.",
+  "p3": "Nous ne travaillons qu'avec des métaux et des pierres précieux issus de sources responsables, et chaque pièce est achevée à la main en séries limitées. L'élégance, l'exclusivité et la confiance ne sont pas notre marketing — elles sont notre méthode.",
+  "quote": "Un bijou doit survivre à l'occasion qui l'a inspiré.",
+  "quoteAuthor": "L'Atelier AALVIS",
+  "pillarsTitle": "Ce qui nous guide",
+  "pillars": {
+   "philosophy": {
+    "title": "Philosophie",
+    "text": "Un design qui traverse les saisons — intemporel, intentionnel, personnel."
+   },
+   "inspiration": {
+    "title": "Inspiration",
+    "text": "Le dialogue de la nuit et de la lumière : profondeurs de minuit, chaleur champagne, sérénité ivoire."
+   },
+   "heritage": {
+    "title": "Héritage",
+    "text": "Des techniques transmises de main en main, honorées dans chaque création que nous signons."
+   },
+   "identity": {
+    "title": "Identité",
+    "text": "Une maison internationale avec un seul standard : l'élégance sans compromis."
+   }
+  },
+  "imageAltAtelier": "Un designer de joaillerie esquissant une nouvelle création dans l'atelier"
+ },
+ "craft": {
+  "eyebrow": "Savoir-Faire",
+  "title": "Là où chaque détail devient art.",
+  "intro": "Derrière chaque création AALVIS se tiennent des centaines d'heures d'un travail patient et précis — la part du luxe que l'on ne précipite jamais.",
+  "steps": {
+   "metal": {
+    "title": "Le Métal",
+    "text": "Un or précieux, allié et travaillé jusqu'à une chaleur de miroir — le fondement de chaque création."
+   },
+   "stone": {
+    "title": "La Pierre",
+    "text": "Des diamants choisis un à un pour leur feu et leur pureté, puis sertis par des mains de maître."
+   },
+   "hand": {
+    "title": "La Main",
+    "text": "Une finition artisanale : limer, polir, assembler avec la patience d'un joaillier."
+   },
+   "light": {
+    "title": "La Lumière",
+    "text": "Un contrôle final sous mille lumières — seule la perfection est signée AALVIS."
+   }
+  },
+  "imageAltMacro": "Photographie macro d'un joaillier sertissant un diamant"
+ },
+ "campaign": {
+  "eyebrow": "La Campagne",
+  "title": "Célébrez les moments les plus précieux de la vie",
+  "text": "Mariages, anniversaires, commencements et triomphes — les créations AALVIS sont faites pour être présentes aux moments qui comptent le plus.",
+  "cta": "Découvrir la collection",
+  "imageAlt": "Portrait de campagne luxueux avec des bijoux d'exception"
+ },
+ "gallery": {
+  "eyebrow": "Galerie",
+  "title": "Un journal visuel de l'élégance",
+  "subtitle": "Des instants de l'univers AALVIS — campagnes, ateliers et créations en lumière.",
+  "cta": "Se renseigner sur une création",
+  "captions": [
+   "Première lumière — le col Aurélia",
+   "Éclat Noir à l'atelier",
+   "Une promesse, sertie d'or",
+   "Lumière, en mouvement",
+   "La nuit et l'or",
+   "La main qui achève"
+  ]
+ },
+ "testimonials": {
+  "eyebrow": "Paroles de clients",
+  "title": "Des mots qui brillent",
+  "subtitle": "Une sélection de témoignages de nos clients.",
+  "prev": "Témoignage précédent",
+  "next": "Témoignage suivant",
+  "placeholderNote": "Exemple de témoignage — à remplacer par des citations approuvées par le client.",
+  "items": [
+   {
+    "quote": "Le savoir-faire a dépassé toutes mes attentes. Ma pièce est arrivée comme un trésor, présentée avec un soin qui racontait déjà une histoire.",
+    "name": "Isabelle R.",
+    "location": "Paris"
+   },
+   {
+    "quote": "De la première consultation à la livraison finale, AALVIS a traité nos bijoux de mariage avec une attention extraordinaire.",
+    "name": "Daniel & Marta",
+    "location": "Lisbonne"
+   },
+   {
+    "quote": "Une véritable maison internationale. Élégante, personnelle et digne de confiance.",
+    "name": "Henrik V.",
+    "location": "Amsterdam"
+   }
+  ]
+ },
+ "contact": {
+  "eyebrow": "Contact et demandes",
+  "title": "Commencez votre voyage AALVIS",
+  "intro": "Notre service clientèle répond personnellement à chaque demande — dans votre langue, à votre rythme.",
+  "infoTitle": "Service clientèle",
+  "emailLabel": "E-mail",
+  "whatsappLabel": "WhatsApp",
+  "hoursLabel": "Consultations",
+  "hoursValue": "Sur rendez-vous",
+  "whatsappTitle": "Vous préférez WhatsApp ?",
+  "whatsappText": "Écrivez directement à notre équipe — nous répondons généralement sous un jour ouvré.",
+  "whatsappCta": "Discuter sur WhatsApp",
+  "form": {
+   "title": "Envoyer une demande",
+   "fullName": "Nom complet",
+   "email": "Adresse e-mail",
+   "phone": "Numéro de téléphone",
+   "phoneHint": "Facultatif — incluez l'indicatif du pays, ex. +33 6 12 34 56 78",
+   "country": "Pays",
+   "countryPlaceholder": "Sélectionnez votre pays",
+   "preferredLanguage": "Langue préférée",
+   "subject": "Objet de la demande",
+   "subjectPlaceholder": "Sélectionnez un objet",
+   "message": "Message",
+   "messagePlaceholder": "Dites-nous ce que vous recherchez…",
+   "consent": "J'accepte le traitement de mes données personnelles pour cette demande, comme décrit dans la",
+   "consentLink": "Politique de confidentialité",
+   "submit": "Envoyer la demande",
+   "submitting": "Préparation de votre demande…",
+   "successTitle": "Encore un geste.",
+   "successText": "WhatsApp s'est ouvert avec votre demande complète — appuyez sur envoyer pour la transmettre à notre équipe. Si WhatsApp ne s'est pas ouvert, contactez-nous par e-mail.",
+   "errorText": "Une erreur est survenue lors de la préparation de votre demande. Veuillez réessayer ou nous contacter sur WhatsApp.",
+   "endpointNote": "Les demandes sont transmises via WhatsApp, ou par e-mail dès que notre service de demandes sera configuré.",
+   "validation": {
+    "required": "Ce champ est obligatoire.",
+    "email": "Veuillez saisir une adresse e-mail valide.",
+    "phone": "Veuillez saisir un numéro de téléphone valide avec l'indicatif du pays.",
+    "messageMin": "Veuillez écrire au moins 20 caractères.",
+    "consent": "Veuillez accepter la politique de confidentialité pour continuer."
+   },
+   "subjects": {
+    "collections": "Demande sur une collection",
+    "bespoke": "Création sur mesure",
+    "bridal": "Mariage et noces",
+    "appointment": "Consultation privée",
+    "other": "Autre demande"
+   }
+  }
+ },
+ "newsletter": {
+  "title": "Entrez dans l'univers AALVIS",
+  "text": "Recevez des aperçus privés des nouvelles collections, des récits de campagne et des invitations — quelques fois par an, jamais plus.",
+  "placeholder": "Votre adresse e-mail",
+  "cta": "S'abonner",
+  "success": "Merci — votre demande d'abonnement a été envoyée à notre service clientèle. Vous recevrez une confirmation sous peu.",
+  "error": "Nous n'avons pas pu traiter cette adresse. Veuillez la vérifier et réessayer.",
+  "note": "En vous abonnant, vous acceptez de recevoir des nouvelles d'AALVIS. Désabonnement à tout moment."
+ },
+ "whatsapp": {
+  "aria": "Discuter avec AALVIS sur WhatsApp",
+  "tooltip": "Contactez notre service clientèle",
+  "message": "Bonjour AALVIS, je souhaite en savoir plus sur vos collections de bijoux."
+ },
+ "footer": {
+  "tagline": "AALVIS est une maison internationale de joaillerie en or et diamants — des créations élégantes, exclusives et intemporelles pour les moments les plus précieux de la vie.",
+  "explore": "Explorer",
+  "collectionsTitle": "Collections",
+  "contactTitle": "Contact",
+  "followTitle": "Suivre",
+  "legalTitle": "Mentions légales",
+  "privacy": "Politique de confidentialité",
+  "cookies": "Politique relative aux cookies",
+  "terms": "Conditions générales",
+  "rights": "Tous droits réservés.",
+  "languageTitle": "Langue",
+  "socialNote": "Nos réseaux sociaux sont annoncés dans la newsletter."
+ },
+ "countries": [
+  "Inde",
+  "France",
+  "Allemagne",
+  "Espagne",
+  "Italie",
+  "Portugal",
+  "Pays-Bas",
+  "Royaume-Uni",
+  "Suisse",
+  "Belgique",
+  "Autriche",
+  "Émirats arabes unis",
+  "Qatar",
+  "Arabie saoudite",
+  "Singapour",
+  "Malaisie",
+  "États-Unis",
+  "Canada",
+  "Australie",
+  "Japon",
+  "Autre"
+ ],
+ "legal": {
+  "note": "Ce document est fourni en anglais pour tous les marchés. Une traduction certifiée est disponible sur demande.",
+  "updated": "Version d'exemple — en attente de validation juridique du client."
+ },
+ "notFound": {
+  "title": "Page introuvable",
+  "text": "La page que vous recherchez a été déplacée ou n'existe plus.",
+  "cta": "Retour à l'accueil"
+ },
+ "error": {
+  "title": "Une erreur est survenue",
+  "text": "Une erreur inattendue s'est produite. Veuillez réessayer.",
+  "retry": "Réessayer",
+  "cta": "Retour à l'accueil"
+ }
+}
