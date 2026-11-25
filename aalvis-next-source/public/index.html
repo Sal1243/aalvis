@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AALVIS — Beauty Beyond Time.</title>
+<meta name="description" content="AALVIS — international maison of gold and diamond jewellery. Beauty Beyond Time." />
+<meta name="robots" content="noindex" />
+<style>
+  html,body{margin:0;height:100%;background:#183B38}
+  .m{height:100%;display:grid;place-items:center;color:#D5B98C;
+     font:300 clamp(1.6rem,4vw,2.6rem)/1 Georgia,'Times New Roman',serif;letter-spacing:.34em}
+</style>
+<script>
+  (function () {
+    var L = ["en", "fr", "de", "es", "it", "pt", "nl"];
+    var loc = null;
+    try { loc = localStorage.getItem("aalvis_lang"); } catch (e) {}
+    if (!loc || L.indexOf(loc) === -1) {
+      loc = ((navigator.language || "en").slice(0, 2) || "en").toLowerCase();
+      if (L.indexOf(loc) === -1) loc = "en";
+    }
+    location.replace("/" + loc + "/");
+  })();
+</script>
+<noscript><meta http-equiv="refresh" content="0; url=/en/" /></noscript>
+</head>
+<body>
+<div class="m">AALVIS</div>
+</body>
+</html>

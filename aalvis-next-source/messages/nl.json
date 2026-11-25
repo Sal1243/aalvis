@@ -1,0 +1,329 @@
+{
+ "_meta": {
+  "brand": "AALVIS",
+  "locale": "nl",
+  "role": "Dutch translation of en.json — native luxury brand voice."
+ },
+ "meta": {
+  "home": {
+   "title": "AALVIS — Luxe gouden & diamanten sieraden",
+   "description": "AALVIS is een internationaal sieraadhuis. Ontdek creaties in goud en diamant, gemaakt om de kostbaarste momenten van het leven te vieren."
+  },
+  "privacy": {
+   "title": "Privacybeleid — AALVIS",
+   "description": "Hoe AALVIS uw persoonsgegevens verzamelt, gebruikt en beschermt."
+  },
+  "cookies": {
+   "title": "Cookiebeleid — AALVIS",
+   "description": "Hoe en waarom AALVIS cookies gebruikt op haar website."
+  },
+  "terms": {
+   "title": "Algemene voorwaarden — AALVIS",
+   "description": "De voorwaarden die gelden voor het gebruik van de AALVIS-website."
+  }
+ },
+ "nav": {
+  "home": "Home",
+  "collections": "Collecties",
+  "story": "Ons Verhaal",
+  "craftsmanship": "Vakmanschap",
+  "gallery": "Galerij",
+  "contact": "Contact",
+  "menu": "Menu",
+  "openMenu": "Menu openen",
+  "closeMenu": "Menu sluiten",
+  "logoAlt": "AALVIS — luxe gouden en diamanten sieraden"
+ },
+ "announcement": {
+  "text": "Privéconsultaties op afspraak — neem contact op met ons cliëntenteam",
+  "cta": "Vraag nu aan",
+  "close": "Aankondiging sluiten"
+ },
+ "language": {
+  "label": "Taal",
+  "open": "Kies taal",
+  "close": "Taalmenu sluiten",
+  "current": "Huidige taal",
+  "suggestion": "Lees AALVIS in het",
+  "dismissSuggestion": "Huidige taal behouden"
+ },
+ "hero": {
+  "eyebrow": "Internationaal huis voor fijne sieraden",
+  "title": "Schoonheid voorbij de tijd.",
+  "subtitle": "Een uitdrukking van elegantie, kunst en tijdloze briljantie.",
+  "ctaPrimary": "Ontdek AALVIS",
+  "ctaSecondary": "Ontdek de collecties",
+  "scroll": "Scroll",
+  "imageAlt": "Filmisch detail van een gouden diamanten collier in dramatisch licht"
+ },
+ "collections": {
+  "eyebrow": "Signature Collecties",
+  "title": "Zes werelden van licht",
+  "subtitle": "Elke collectie is een hoofdstuk van het AALVIS-verhaal — gecomponeerd in goud, verlicht door diamanten, met de hand voltooid.",
+  "cta": "Ontdekken",
+  "enquireCta": "Vraag naar deze collectie",
+  "items": {
+   "gold": {
+    "name": "Gouden Sieraden",
+    "description": "Beeldhouwwerken van warm, stralend goud — van signature colliers tot alledaagse schatten."
+   },
+   "diamond": {
+    "name": "Diamanten Sieraden",
+    "description": "Briljant, vlekkeloos en voor altijd. Diamanten geselecteerd op vuur, helderheid en karakter."
+   },
+   "rings": {
+    "name": "Ringen",
+    "description": "Kostbare beloften — solitairs, cocktailringen en banden met stille distinctie."
+   },
+   "necklaces": {
+    "name": "Kettingen",
+    "description": "Lijnen van licht die het sleutelbeen volgen — hangers, colliers en rivière-kettingen."
+   },
+   "earrings": {
+    "name": "Oorbellen",
+    "description": "Beweging en glinstering in perfecte balans — studs, druppels en kroonluchtercreaties."
+   },
+   "bracelets": {
+    "name": "Armbanden",
+    "description": "Het laatste gebaar — tennisarmbanden, bangles en manchetten van blijvende elegantie."
+   }
+  }
+ },
+ "featured": {
+  "eyebrow": "Uitgelichte creaties",
+  "title": "Meesterwerken, van dichtbij",
+  "subtitle": "Een editoriale selectie van AALVIS-creaties — een visuele galerij, gepresenteerd voor bewondering en aanvragen.",
+  "cta": "Ontdek meer",
+  "items": {
+   "aurelia": {
+    "name": "Aurélia",
+    "category": "Gouden Sieraden",
+    "description": "Een sculpturaal collier van met de hand gepolijst goud, geïnspireerd door het eerste licht van de dageraad."
+   },
+   "eclat": {
+    "name": "Éclat Noir",
+    "category": "Diamanten Sieraden",
+    "description": "Een gedurfde cocktailring met een briljant geslepen diamant, omlijst in gezwart goud."
+   },
+   "lumiere": {
+    "name": "Lumière",
+    "category": "Oorbellen",
+    "description": "Diamanten oorhangers als een cascade, bewegend als licht op water."
+   }
+  }
+ },
+ "story": {
+  "eyebrow": "Ons Verhaal",
+  "title": "Een uitdrukking van kunst. Een viering van elegantie.",
+  "p1": "AALVIS werd opgericht vanuit één overtuiging: sieraden zijn vereeuwigde herinnering. Elke creatie begint als een verhaal — een mijlpaal, een gelofte, een viering — en wordt een erfstuk dat het verhaal verder draagt.",
+  "p2": "Onze ontwerptaal put uit de stille grootsheid van middernacht en de warmte van kaarslicht: diepe, luminieuze zwarttinten die het goud zijn podium geven, en diamanten die licht vasthouden als nagekomen beloften.",
+  "p3": "Wij werken alleen met verantwoord gewonnen edelmetalen en stenen, en elk stuk wordt met de hand voltooid in gelimiteerde series. Elegantie, exclusiviteit en vertrouwen zijn niet onze marketing — zij zijn onze methode.",
+  "quote": "Sieraden moeten de gelegenheid overleven die ze inspireerde.",
+  "quoteAuthor": "Het AALVIS-atelier",
+  "pillarsTitle": "Wat ons leidt",
+  "pillars": {
+   "philosophy": {
+    "title": "Filosofie",
+    "text": "Ontwerp dat verder gaat dan het seizoen — tijdloos, doordacht, persoonlijk."
+   },
+   "inspiration": {
+    "title": "Inspiratie",
+    "text": "Het samenspel van nacht en licht: middernachtelijke diepte, champagne-warmte, ivoorkleurige rust."
+   },
+   "heritage": {
+    "title": "Erfgoed",
+    "text": "Van hand tot hand doorgegeven technieken, vereerd in elke creatie die wij signeren."
+   },
+   "identity": {
+    "title": "Identiteit",
+    "text": "Een internationaal huis met één standaard: compromisloze elegantie."
+   }
+  },
+  "imageAltAtelier": "Een sieradenontwerper die een nieuwe creatie schetst in het atelier"
+ },
+ "craft": {
+  "eyebrow": "Vakmanschap",
+  "title": "Waar elk detail kunst wordt.",
+  "intro": "Achter elke AALVIS-creatie staan honderden uren geduldig, precies werk — het deel van luxe dat nooit wordt gehaast.",
+  "steps": {
+   "metal": {
+    "title": "Het Metaal",
+    "text": "Edel goud, gelegeerd en bewerkt tot een warme spiegeling — de basis van elke creatie."
+   },
+   "stone": {
+    "title": "De Steen",
+    "text": "Diamanten, één voor één geselecteerd op vuur en helderheid, daarna gezet door meesterhanden."
+   },
+   "hand": {
+    "title": "De Hand",
+    "text": "Ambachtelijke afwerking: vijlen, polijsten en monteren met het geduld van een goudsmid."
+   },
+   "light": {
+    "title": "Het Licht",
+    "text": "Finale kwaliteitscontrole onder vele lichten — alleen perfectie wordt AALVIS gesigneerd."
+   }
+  },
+  "imageAltMacro": "Macrofoto van een goudsmid die een diamant zet"
+ },
+ "campaign": {
+  "eyebrow": "De Campagne",
+  "title": "Vier de kostbaarste momenten van het leven",
+  "text": "Bruiloften, jubilea, nieuwe beginsels en triomfen — AALVIS-creaties zijn gemaakt om aanwezig te zijn bij de momenten die er het meest toe doen.",
+  "cta": "Ontdek de collectie",
+  "imageAlt": "Luxe campagneportret met opvallende sieraden"
+ },
+ "gallery": {
+  "eyebrow": "Galerij",
+  "title": "Een visueel dagboek van elegantie",
+  "subtitle": "Momenten uit de wereld van AALVIS — campagnes, ateliers en creaties in licht.",
+  "cta": "Vraag naar een creatie",
+  "captions": [
+   "Eerste licht — het Aurélia-collier",
+   "Éclat Noir in het atelier",
+   "Een belofte, gezet in goud",
+   "Lumière, in beweging",
+   "Nacht en goud",
+   "De voltooide hand"
+  ]
+ },
+ "testimonials": {
+  "eyebrow": "Cliëntstemmen",
+  "title": "Woorden die glanzen",
+  "subtitle": "Een selectie van berichten van onze cliënten.",
+  "prev": "Vorige cliëntstem",
+  "next": "Volgende cliëntstem",
+  "placeholderNote": "Voorbeeld van een cliëntstem — te vervangen door door de klant goedgekeurde citaten.",
+  "items": [
+   {
+    "quote": "Het vakmanschap overtrof elke verwachting. Mijn stuk kwam aan als een schat, gepresenteerd met een zorg die zijn eigen verhaal vertelde.",
+    "name": "Isabelle R.",
+    "location": "Parijs"
+   },
+   {
+    "quote": "Van het eerste consult tot de finale levering behandelde AALVIS onze trouwsieraden met buitengewone aandacht.",
+    "name": "Daniel & Marta",
+    "location": "Lissabon"
+   },
+   {
+    "quote": "Een echt internationaal huis. Elegant, persoonlijk en volkomen betrouwbaar.",
+    "name": "Henrik V.",
+    "location": "Amsterdam"
+   }
+  ]
+ },
+ "contact": {
+  "eyebrow": "Contact en aanvragen",
+  "title": "Begin uw AALVIS-reis",
+  "intro": "Ons cliëntenteam beantwoordt elke aanvraag persoonlijk — in uw taal, op uw tempo.",
+  "infoTitle": "Cliëntenservice",
+  "emailLabel": "E-mail",
+  "whatsappLabel": "WhatsApp",
+  "hoursLabel": "Consultaties",
+  "hoursValue": "Op afspraak",
+  "whatsappTitle": "Liever WhatsApp?",
+  "whatsappText": "Stuur ons team direct een bericht — wij antwoorden doorgaans binnen één werkdag.",
+  "whatsappCta": "Chat via WhatsApp",
+  "form": {
+   "title": "Stuur een aanvraag",
+   "fullName": "Volledige naam",
+   "email": "E-mailadres",
+   "phone": "Telefoonnummer",
+   "phoneHint": "Optioneel — inclusief landcode, bijv. +31 6 1234 5678",
+   "country": "Land",
+   "countryPlaceholder": "Selecteer uw land",
+   "preferredLanguage": "Voorkeurstaal",
+   "subject": "Onderwerp van de aanvraag",
+   "subjectPlaceholder": "Selecteer een onderwerp",
+   "message": "Bericht",
+   "messagePlaceholder": "Vertel ons waarnaar u op zoek bent…",
+   "consent": "Ik ga akkoord met de verwerking van mijn persoonsgegevens voor deze aanvraag, zoals beschreven in het",
+   "consentLink": "Privacybeleid",
+   "submit": "Aanvraag versturen",
+   "submitting": "Uw aanvraag wordt voorbereid…",
+   "successTitle": "Bijna klaar.",
+   "successText": "WhatsApp is geopend met uw volledige aanvraag — druk daar op verzenden om ons team te bereiken. Als WhatsApp niet opende, neem dan contact op per e-mail.",
+   "errorText": "Er ging iets mis bij het voorbereiden van uw aanvraag. Probeer het opnieuw of neem contact op via WhatsApp.",
+   "endpointNote": "Aanvragen worden geleverd via WhatsApp, of per e-mail zodra onze aanvraagdienst is geconfigureerd.",
+   "validation": {
+    "required": "Dit veld is verplicht.",
+    "email": "Voer een geldig e-mailadres in.",
+    "phone": "Voer een geldig telefoonnummer in met landcode.",
+    "messageMin": "Schrijf minimaal 20 tekens.",
+    "consent": "Accepteer het privacybeleid om verder te gaan."
+   },
+   "subjects": {
+    "collections": "Vraag over een collectie",
+    "bespoke": "Creatie op maat",
+    "bridal": "Bruid en bruiloft",
+    "appointment": "Privéconsultatie",
+    "other": "Iets anders"
+   }
+  }
+ },
+ "newsletter": {
+  "title": "Betreed de wereld van AALVIS",
+  "text": "Ontvang privévoorbeelden van nieuwe collecties, campagneverhalen en uitnodigingen — enkele keren per jaar, nooit meer.",
+  "placeholder": "Uw e-mailadres",
+  "cta": "Aanmelden",
+  "success": "Dank u — uw aanmeldingsverzoek is verzonden naar ons cliëntenteam. U ontvangt binnenkort een bevestiging.",
+  "error": "Wij konden dit adres niet verwerken. Controleer het en probeer het opnieuw.",
+  "note": "Door u aan te melden gaat u akkoord met het ontvangen van nieuws van AALVIS. Uitschrijven kan altijd."
+ },
+ "whatsapp": {
+  "aria": "Chat met AALVIS via WhatsApp",
+  "tooltip": "Neem contact op met ons cliëntenteam",
+  "message": "Hallo AALVIS, ik wil graag meer weten over uw sieradencollecties."
+ },
+ "footer": {
+  "tagline": "AALVIS is een internationaal huis voor gouden en diamanten sieraden — elegante, exclusieve en tijdloze creaties voor de kostbaarste momenten van het leven.",
+  "explore": "Ontdek",
+  "collectionsTitle": "Collecties",
+  "contactTitle": "Contact",
+  "followTitle": "Volg",
+  "legalTitle": "Juridisch",
+  "privacy": "Privacybeleid",
+  "cookies": "Cookiebeleid",
+  "terms": "Algemene voorwaarden",
+  "rights": "Alle rechten voorbehouden.",
+  "languageTitle": "Taal",
+  "socialNote": "Onze sociale kanalen worden aangekondigd in de nieuwsbrief."
+ },
+ "countries": [
+  "India",
+  "Frankrijk",
+  "Duitsland",
+  "Spanje",
+  "Italië",
+  "Portugal",
+  "Nederland",
+  "Verenigd Koninkrijk",
+  "Zwitserland",
+  "België",
+  "Oostenrijk",
+  "Verenigde Arabische Emiraten",
+  "Qatar",
+  "Saoedi-Arabië",
+  "Singapore",
+  "Maleisië",
+  "Verenigde Staten",
+  "Canada",
+  "Australië",
+  "Japan",
+  "Anders"
+ ],
+ "legal": {
+  "note": "Dit document wordt voor alle markten in het Engels geleverd. Een beëdigde vertaling is op aanvraag beschikbaar.",
+  "updated": "Voorbeeldversie — in afwachting van juridische beoordeling door de klant."
+ },
+ "notFound": {
+  "title": "Pagina niet gevonden",
+  "text": "De pagina die u zoekt is verplaatst of bestaat niet meer.",
+  "cta": "Terug naar home"
+ },
+ "error": {
+  "title": "Er is iets misgegaan",
+  "text": "Er is een onverwachte fout opgetreden. Probeer het opnieuw.",
+  "retry": "Opnieuw proberen",
+  "cta": "Terug naar home"
+ }
+}

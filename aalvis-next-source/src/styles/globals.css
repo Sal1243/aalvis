@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Next-specific glue on top of the CELESTIAL CHAMPAGNE base system */
+html { -webkit-text-size-adjust: 100%; }
+.alv img { height: auto; }
+.alv section[id] { scroll-margin-top: 5.5rem; }
+/* fill-image containers */
+.alv .cols > div { display: block; }
+.alv .cols .col-card { display: block; width: 100%; height: 100%; }
+.alv .feat-media { aspect-ratio: 4/4.6; position: relative; overflow: hidden; border-radius: 200px 200px 6px 6px; }
+.alv .feat-media--vitrine { aspect-ratio: 1/1.05; border-radius: 220px 220px 8px 8px; padding: clamp(1.6rem, 4vw, 3.4rem); }
+.alv .feat-media img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; border-radius: inherit; }
+.alv .feat-media--vitrine img { object-fit: contain; }
+.alv .story-imgs > * { position: absolute; }
+.alv .story-imgs > *:first-child { top: 0; left: 0; width: 70%; z-index: 1; aspect-ratio: 3/4; border-radius: 180px 180px 4px 4px; overflow: hidden; }
+.alv .story-imgs > *:last-child { bottom: 0; right: 0; width: 70%; z-index: 2; aspect-ratio: 1/1; transform: rotate(-3deg); border-radius: 4px; overflow: hidden; box-shadow: 0 34px 80px rgba(10,29,27,.24); }
+.alv .story-imgs > * img { position: absolute !important; inset: 0; width: 100% !important; height: 100%; object-fit: cover; }
+.alv .hgal-slide figure { aspect-ratio: 4/5; }
+.alv .gal figure { position: relative; overflow: hidden; }
